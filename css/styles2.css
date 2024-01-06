@@ -93,7 +93,9 @@ img {
 .avantokyo {
     font-size: smaller;
 }
-
+#jf-logo {
+    width: 50%;
+}
 /* footer  */
 
 footer {
